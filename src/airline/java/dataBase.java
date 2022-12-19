@@ -8,6 +8,7 @@ package airline.java;
  *
  * @author dell
  */
+//This is variable 
 
 public class dataBase {
     public   static int  seats = 100 ;
