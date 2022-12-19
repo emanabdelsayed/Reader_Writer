@@ -2,6 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+//messi is the legend
 package airline.java;
 
 /**
@@ -9,7 +10,7 @@ package airline.java;
  * @author dell
  */
 //This is variable 
-//meesi is the legend
+
 
 public class dataBase {
     public   static int  seats = 100 ;
