@@ -9,6 +9,7 @@ package airline.java;
  * @author dell
  */
 //This is variable 
+//meesi is the legend
 
 public class dataBase {
     public   static int  seats = 100 ;
