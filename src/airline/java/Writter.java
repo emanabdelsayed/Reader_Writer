@@ -25,6 +25,7 @@ public class Writter extends Thread {
  
 
     @Override
+    // this is function that override fome runnable class
     public void run() {
 
       ReaderWriterGUI.DB.statrtWrite();
